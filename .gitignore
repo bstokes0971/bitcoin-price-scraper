@@ -16,3 +16,4 @@ Thumbs.db
 archive/
 bitcoin-price-scraper/
 website/
+bitcoin-price-scraper/*.csv
